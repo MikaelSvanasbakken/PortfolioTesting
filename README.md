@@ -1,3 +1,2 @@
 # PortfolioTesting
-## This site is in constant development so take everything with a grain of salt.
-   I'm planning to implement some form of react components in this site in the future.
+## This site is a bit outdated but it's still interesting to look back at. This was made with simple html and css, mainly for practice.
